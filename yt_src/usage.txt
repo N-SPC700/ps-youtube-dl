@@ -1,0 +1,4 @@
+This is totally not a redist of YTD. DO NOT Remove the first few bytes up until "MZ" with a hex editor.
+
+
+Source: https://soundcloud.com/silicaandpina/youtube-dl?twittercachesucks=true
