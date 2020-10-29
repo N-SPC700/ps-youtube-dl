@@ -9,6 +9,8 @@ This script only interfaces with the tool known as "youtube-dl". As such, the sc
 # Usage #
 Download the .ps1 file provided, and save to a directory/folder of your choosing. Simply run it and enter the URL. Additionally, do `set-alias -name "youtubedl" C:\Path\To\The\Script.ps1` in Powershell for extra convenience, so you can call the script anytime.
 
+If you cannot find Youtube-dl, go find it on one of many clone repos. Alternatively, read `usage.txt` in the `yt_src` folder.
+
 
 # Possible updates: #
 - .bat Command Line versions may come soon.
